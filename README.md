@@ -3,7 +3,7 @@ The **pdashboard-connector** is an **Application Lifecycle Management** (ALM) fr
 
 It provides:
  	
-    1. The revolutionary task-focused interface
+    [ ]1. The revolutionary task-focused interface
     2. Realigns the IDE around tasks so that you see only the code that's relevant 
     3. A task management tool for developers 
     4. A broad ecosystem of **TSP/PSP** and ALM integrations. 
