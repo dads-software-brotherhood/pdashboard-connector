@@ -1,5 +1,5 @@
 # pdashboard-connector
-**pdashboard-connector** is an Application Lifecycle Management (ALM) framework based on PSP development for Eclipse.
+The **pdashboard-connector** is an Application Lifecycle Management (ALM) framework based on PSP development for Eclipse.
 
 It provides:
  	
